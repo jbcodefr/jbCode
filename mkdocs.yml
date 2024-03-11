@@ -1,9 +1,6 @@
 site_name: JbCode
 theme:
   name: material
-  features:
-      - search.highlight
-  logo: assets/logo.png
 extra:
   generator: false
   consent:
