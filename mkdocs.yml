@@ -1,0 +1,21 @@
+site_name: JbCode
+theme:
+  name: material
+  features:
+      - search.highlight
+  logo: assets/logo.png
+extra:
+  generator: false
+  consent:
+    title: Cookie consent
+    description:
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/80314529/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<jbcodefr@gmail.com>
+copyright: Copyright &copy; 2016 - 2024 JbCode
