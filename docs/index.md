@@ -14,7 +14,7 @@ Check Out Courses here [https://www.udemy.com/user/jeanbosco-ninkam-noumssi/](ht
 
 # Contacts
   * mail: contact@jbcode.fr
-  * https://www.linkedin.com/company/80314529/
+  * [www.linkedin.com/jbcode/](https://www.linkedin.com/company/80314529/)
 
 
 
