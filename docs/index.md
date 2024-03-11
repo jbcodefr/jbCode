@@ -11,3 +11,16 @@ Check Out Courses here [https://www.udemy.com/user/jeanbosco-ninkam-noumssi/](ht
 * `📺 Latest YouTube Videos`
   * [Cours complet sur Matlab pour débutants](https://youtu.be/kKdRgZLVxuQ)
   * [HTML en 30 Minutes !](https://youtu.be/7t60VCmY7bQ)
+
+# Contacts
+  * mail: contact@jbcode.fr
+  * https://www.linkedin.com/company/80314529/
+
+
+
+
+
+
+
+
+###### copyright: Copyright &copy; 2016 - 2024 JbCode
